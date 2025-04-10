@@ -1,0 +1,3 @@
+{"timestamp":13054766,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1744084598839","success":"true","site_host":"youtube.com","is_dry_run":"true","bounce_time":"1744077605"}}
+{"timestamp":13054768,"category":"bounce.tracking.protection","name":"purge_action","extra":{"success":"true","is_dry_run":"true","site_host":"google.com.pe","glean_timestamp":"1744084598840","bounce_time":"1744077605"}}
+{"timestamp":1161738,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1744300163434","glean.startup.date":"2025-04-10T10:49-05:00"},"execution_counter":1}

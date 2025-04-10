@@ -1,0 +1,8 @@
+{"timestamp":1159819,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1744300161515","setting":"required"}}
+{"timestamp":1161169,"category":"nimbus_events","name":"enrollment","extra":{"glean_timestamp":"1744300162865","branch":"control","experiment_type":"rollout","experiment":"extensions-migration-in-import-wizard-116-rollout"}}
+{"timestamp":1161371,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","glean_timestamp":"1744300163067","reason":"invalid-feature"}}
+{"timestamp":1161372,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1744300163068"}}
+{"timestamp":1161690,"category":"addons_manager","name":"manage","extra":{"method":"disable","source":"system-addon","addon_type":"extension","addon_id":"screenshots@mozilla.org","glean_timestamp":"1744300163387"}}
+{"timestamp":1169576,"category":"urlbar","name":"engagement","extra":{"n_words":"1","interaction":"typed","sap":"urlbar_newtab","selected_result":"url","search_engine_default_id":"google-ubuntu-sn","glean_timestamp":"1744300171272","n_chars":"10","actions":"none,none","selected_position":"1","n_results":"2","groups":"heuristic,general","results":"url,search_engine","provider":"HeuristicFallback","search_mode":"","engagement_type":"enter"}}
+{"timestamp":1188412,"category":"nimbus_events","name":"validation_failed","extra":{"glean_timestamp":"1744300190108","feature":"addAnImageInPDF","experiment":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature"}}
+{"timestamp":1188412,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1744300190108"}}
